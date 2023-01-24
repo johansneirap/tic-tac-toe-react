@@ -23,6 +23,10 @@ A simple tic tac toe game built with React + TypeScript.
 - CSS
 - HTML
 
+## Next Steps:
+- Improve look and feel
+- Make multiplayer option
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and make your changes. Then, submit a pull request for review.
